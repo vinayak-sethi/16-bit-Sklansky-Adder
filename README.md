@@ -1,2 +1,3 @@
 # 16-bit-Sklansky-Adder
-![image](https://user-images.githubusercontent.com/62088877/113687734-45a4ba00-96e6-11eb-8bc8-15f96f92921f.png)
+![image](https://user-images.githubusercontent.com/62088877/113687879-65d47900-96e6-11eb-9d0b-63a8ff2e8233.png)
+
