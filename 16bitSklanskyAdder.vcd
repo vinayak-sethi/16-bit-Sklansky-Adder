@@ -1,0 +1,200 @@
+$date
+	Wed Nov 18 16:58:58 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module top $end
+$var wire 16 ! sum [15:0] $end
+$var wire 1 " cout $end
+$var reg 16 # A [15:0] $end
+$var reg 16 $ B [15:0] $end
+$var reg 1 % cin $end
+$scope module SlkAdd $end
+$var wire 16 & A [15:0] $end
+$var wire 16 ' B [15:0] $end
+$var wire 1 % cin $end
+$var wire 16 ( sum [15:0] $end
+$var wire 16 ) level42 [15:0] $end
+$var wire 16 * level41 [15:0] $end
+$var wire 16 + level32 [15:0] $end
+$var wire 16 , level31 [15:0] $end
+$var wire 16 - level22 [15:0] $end
+$var wire 16 . level21 [15:0] $end
+$var wire 16 / level12 [15:0] $end
+$var wire 16 0 level11 [15:0] $end
+$var wire 16 1 initializeP [15:0] $end
+$var wire 16 2 initializeG [15:0] $end
+$var wire 1 " cout $end
+$scope begin genblk1[0] $end
+$upscope $end
+$scope begin genblk1[1] $end
+$upscope $end
+$scope begin genblk1[2] $end
+$upscope $end
+$scope begin genblk1[3] $end
+$upscope $end
+$scope begin genblk1[4] $end
+$upscope $end
+$scope begin genblk1[5] $end
+$upscope $end
+$scope begin genblk1[6] $end
+$upscope $end
+$scope begin genblk1[7] $end
+$upscope $end
+$scope begin genblk1[8] $end
+$upscope $end
+$scope begin genblk1[9] $end
+$upscope $end
+$scope begin genblk1[10] $end
+$upscope $end
+$scope begin genblk1[11] $end
+$upscope $end
+$scope begin genblk1[12] $end
+$upscope $end
+$scope begin genblk1[13] $end
+$upscope $end
+$scope begin genblk1[14] $end
+$upscope $end
+$scope begin genblk1[15] $end
+$upscope $end
+$scope begin genblk2[0] $end
+$upscope $end
+$scope begin genblk2[1] $end
+$upscope $end
+$scope begin genblk2[2] $end
+$upscope $end
+$scope begin genblk2[3] $end
+$upscope $end
+$scope begin genblk2[4] $end
+$upscope $end
+$scope begin genblk2[5] $end
+$upscope $end
+$scope begin genblk2[6] $end
+$upscope $end
+$scope begin genblk2[7] $end
+$upscope $end
+$scope begin genblk3[0] $end
+$upscope $end
+$scope begin genblk3[1] $end
+$upscope $end
+$scope begin genblk3[2] $end
+$upscope $end
+$scope begin genblk3[3] $end
+$upscope $end
+$scope begin genblk4[0] $end
+$upscope $end
+$scope begin genblk4[1] $end
+$upscope $end
+$scope begin genblk5[0] $end
+$upscope $end
+$scope begin genblk6[0] $end
+$upscope $end
+$scope begin genblk6[1] $end
+$upscope $end
+$scope begin genblk6[2] $end
+$upscope $end
+$scope begin genblk6[3] $end
+$upscope $end
+$scope begin genblk6[4] $end
+$upscope $end
+$scope begin genblk6[5] $end
+$upscope $end
+$scope begin genblk6[6] $end
+$upscope $end
+$scope begin genblk6[7] $end
+$upscope $end
+$scope begin genblk6[8] $end
+$upscope $end
+$scope begin genblk6[9] $end
+$upscope $end
+$scope begin genblk6[10] $end
+$upscope $end
+$scope begin genblk6[11] $end
+$upscope $end
+$scope begin genblk6[12] $end
+$upscope $end
+$scope begin genblk6[13] $end
+$upscope $end
+$scope begin genblk6[14] $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b1000001001000000 2
+b111110110111111 1
+b1000001011000000 0
+b111110100111111 /
+b1000111011000000 .
+b111000100111111 -
+b1111111011000000 ,
+b100111111 +
+b1111111111000000 *
+b111111 )
+b1000001000111111 (
+b1010101011101010 '
+b1101011101010101 &
+0%
+b1010101011101010 $
+b1101011101010101 #
+1"
+b1000001000111111 !
+$end
+#5
+0"
+b0 *
+b1111111111111111 )
+b0 ,
+b1111111111111111 +
+b0 .
+b1111111111111111 -
+b1111111111111111 !
+b1111111111111111 (
+b0 0
+b1111111111111111 /
+b0 2
+b1111111111111111 1
+b1010101010101010 $
+b1010101010101010 '
+b101010101010101 #
+b101010101010101 &
+#10
+b1111000011100 *
+b1 )
+b1111000011100 ,
+b100000001 +
+b111000001100 .
+b1000100010001 -
+b1010100111100001 !
+b1010100111100001 (
+b101000001100 0
+b1010111010001 /
+b101000000100 2
+b1001010111011001 1
+b1000101110001101 $
+b1000101110001101 '
+b1111001010100 #
+b1111001010100 &
+#15
+1"
+b1011111111111111 *
+b0 )
+b1010000011111111 ,
+b1111100000000 +
+b1010000010001111 .
+b1111101110000 -
+b110000010000000 !
+b110000010000000 (
+b1010000010000011 0
+b1111101111100 /
+b1010000010000001 2
+b1111101111110 1
+b1010101110100011 $
+b1010101110100011 '
+b1011010011011101 #
+b1011010011011101 &
